@@ -5,9 +5,9 @@ I am a **Computer Science Student** at Poznań University of Technology (PUT), c
 I am actively seeking a stable, commercial project where I can contribute using my skills in **Lua, Java, or Python**.
 
 ### Key Focus & Development Goals:
-* Getting into a bigger project within game development industry.
-* Deepening my **Java** expertise for game development (currently exploring **LibGDX**).
-* Expanding into **Web Development**; I have practical experience with **React** and am planning to build my own portfolio.
+* Getting into a bigger project within the game development industry.
+* Deepening my **Java** expertise for game development (currently working with **LibGDX**).
+* Expanding into **Web Development**, I have practical experience with **React** and am planning to build my own portfolio.
 
 ### My Current Tech Stack
 <p align="left">
