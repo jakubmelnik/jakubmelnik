@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Jakub (Kuba for short)! 👋
 
-<!--
-**jakubmelnik/jakubmelnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student** at Poznań University of Technology (PUT), currently combining my studies with work as a **Freelancer** specialized in **Lua** development for game studios.
 
-Here are some ideas to get you started:
+I am actively seeking a stable, commercial project where I can contribute using my skills in **Lua, Java, or Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Focus & Development Goals:
+* Getting into a bigger project within game development industry.
+* Deepening my **Java** expertise for game development (currently exploring **LibGDX**).
+* Expanding into **Web Development**; I have practical experience with **React** and am planning to build my own portfolio.
+
+### My Current Tech Stack
+<p align="left">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/LibGDX-549E59?style=flat&logo=libgdx&logoColor=white" alt="LibGDX" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
